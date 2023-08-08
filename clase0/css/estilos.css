@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    color: white;
+    background-color: black;
+    padding: 50px;
+}
+
+#logo {
+    width: 240px;
+    border: 1px solid yellow;
+}
+
+.encabezado {
+    font-size: 32px;
+    letter-spacing: 2px;
+    word-spacing: 3px;
+    text-transform: uppercase;
+}
+
+.parrafo {
+    color: #336699;
+    margin: 0px 10px;
+}
+
+.boton {
+    color: white;
+    background-color: blue;
+    padding: 10px 30px;
+    border: 1px solid grey;
+}
+
+h1 {
+    padding-bottom: 30px;
+}
+
+p {
+    padding-bottom: 20px;
+}
