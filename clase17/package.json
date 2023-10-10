@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "name": "clase17",
+  "version": "1.0.0",
+  "description": "Clase Final de JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Javier Verón",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
